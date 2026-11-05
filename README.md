@@ -29,7 +29,7 @@ InsurePredict is deployed on Render. Enter a few profile details and submit the 
 
 ## 📸 Application Screenshot
 
-![InsurePredict application showing the profile form and estimate panel](screenshots/insurepredict.jpg)
+![InsurePredict application showing the profile form and estimate panel](insurepredict.jpg)
 
 *The application has one main prediction screen, with profile inputs on the left and the estimate panel on the right.*
 
